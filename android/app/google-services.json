@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93304119962",
+    "project_id": "spotifyapi-36066",
+    "storage_bucket": "spotifyapi-36066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93304119962:android:54f2e79c4666261c7eb523",
+        "android_client_info": {
+          "package_name": "com.kevyn.spotifapi.spotify_api_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93304119962-gbq3b3cefhdsiaut36fsb3j6u33jp2ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vwl9_wG4dI2MuAmjmvO36T99O4ych8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93304119962-gbq3b3cefhdsiaut36fsb3j6u33jp2ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
